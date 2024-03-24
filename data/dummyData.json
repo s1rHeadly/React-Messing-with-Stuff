@@ -1,0 +1,36 @@
+{
+ "people": [
+  {
+    "id": 1,
+    "firstName": "Jon",
+    "lastName":"Doe"
+  },
+  {
+    "id": 2,
+    "firstName": "Steve",
+    "lastName":"McQueen"
+  },
+  {
+    "id": 3,
+    "firstName": "Alan",
+    "lastName":"Jones"
+  }
+ ],
+ "places": [
+  {
+    "id": 1,
+    "country": "Germany",
+    "city":"Berlin"
+  },
+  {
+    "id": 2,
+    "country": "Australia",
+    "city":"Sydney"
+  },
+  {
+    "id": 3,
+    "country": "America",
+    "city":"New York"
+  }
+ ]
+}
